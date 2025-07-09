@@ -64,4 +64,4 @@ done
 ```
 
 ## 📎 Authors
-Carlos Freire & David Blazheski
+David Blazheski & Carlos Freire 
